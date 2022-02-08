@@ -1,4 +1,6 @@
-**Hi, I'm Rita! <img src="https://i.redd.it/stt0hr85e3s71.gif" width="50">**
+**Hi, I'm Rita! **
+
+<iframe src="https://giphy.com/embed/f9NHcilh03ymqwo5GC" width="240" height="135" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/chubi-shiba-inu-shibainu-f9NHcilh03ymqwo5GC">via GIPHY</a></p>
 
 * * *
 
@@ -13,8 +15,8 @@
 
 **Languages and tools:**
 
-<img align="left" height="20" src="https://pt.wikipedia.org/wiki/HTML5#/media/Ficheiro:HTML5_logo_and_wordmark.svg">
-<img align="left" height="30" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg">
+<img align="left" height="20" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png">
+<img align="left" height="30" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png">
 <img align="left" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/javascript.png">
 <img align="left" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/nodejs.png">
 <img align="left" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/react.png">
