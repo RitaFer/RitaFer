@@ -15,8 +15,8 @@
 
 **Languages and tools:**
 
-<img align="left" height="20" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png">
-<img align="left" height="30" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png">
-<img align="left" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/javascript.png">
-<img align="left" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/nodejs.png">
-<img align="left" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/react.png">
+<img align="left" height="40" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png">
+<img align="left" height="40" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png">
+<img align="left" height="40" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/javascript.png">
+<img align="left" height="40" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/nodejs.png">
+<img align="left" height="40" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/react.png">
