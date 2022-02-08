@@ -1,22 +1,27 @@
-**Hi, I'm Rita! **
+## Hi, I'm Rita!
 
-<iframe src="https://giphy.com/embed/f9NHcilh03ymqwo5GC" width="240" height="135" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/chubi-shiba-inu-shibainu-f9NHcilh03ymqwo5GC">via GIPHY</a></p>
-
-* * *
+<img align="left" src="https://c.tenor.com/Zjx4IpPncygAAAAi/yay-cute.gif" width="300">
 
 **About me:**
-- 💻 I'm a beginner web developer
-- ⚛️ JavaScript | NodeJS | React
-- 📝 Graduation of Pharmacy and Biochemistry and Computer Sciences
-- ✨ I LOVE plants, animals and technology
-- 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/rita-ferr/), [instagram](https://www.instagram.com/_leopis/) or [twitter](https://twitter.com/RitaFer82562874)
+<p>
+☑️ 💻 I'm a beginner web developer
+</p>
+<p>
+☑️ ✅ HTML5 | CSS3 | JavaScript | NodeJS
+</p>
+<p>
+☑️ 🕐 VueJS | ReactJS
+</p>
+<p>
+☑️ 📝 Graduation of Pharmacy and Biochemistry and Computer Sciences
+</p>
 
 
-
-**Languages and tools:**
+**Languages and Tools:**
 
 <img align="left" height="40" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png">
 <img align="left" height="40" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png">
-<img align="left" height="40" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/javascript.png">
-<img align="left" height="40" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/nodejs.png">
-<img align="left" height="40" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/react.png">
+<img align="left" height="40" src="https://logospng.org/download/javascript/logo-javascript-1024.png">
+<img align="left" height="40" src="https://cdn.iconscout.com/icon/free/png-256/node-js-3628954-3030179.png">
+<img align="left" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/555px-Vue.js_Logo_2.svg.png">
+<img align="left" height="40" src="https://victorvhpg.github.io/minicurso-react.js/slides/img/logo.png">
