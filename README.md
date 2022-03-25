@@ -1,33 +1,26 @@
 ## Hi, I'm Rita!
 
-<p align="right" style="background:yellow">
-<a href="https://twitter.com/RitaFer82562874" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Rita-05122A?style=flat&logo=twitter" alt="twitter"/>  
+<p align="right">
+<a href="rialf.ferreira@gmail.com" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail" alt="gmail"/>
 </a>
 <a href="https://www.linkedin.com/in/rita-ferr/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Rita-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/_leopis/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-@leopis-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+<a href="https://twitter.com/RitaFer82562874" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
   
-<br>
-  
-<img align="left" src="https://c.tenor.com/Zjx4IpPncygAAAAi/yay-cute.gif" width="300">
+<img align="right" src="https://c.tenor.com/Zjx4IpPncygAAAAi/yay-cute.gif" width="300">
 
 **About me:**
-<p>
-☑️ 💻 I'm a beginner web developer
-</p>
-<p>
-☑️ ✅ HTML5 | CSS3 | Sass | JavaScript | NodeJS | ReactJS | 
-</p>
-<p>
-☑️ 🕐 VueJS | Java
-</p>
-<p>
-☑️ 📝 Graduation of Pharmacy and Biochemistry and Computer Sciences
-</p>
+- 💻 I'm a beginner web developer 
+- ✅ HTML5 | CSS3 | Sass | JavaScript | NodeJS | ReactJS | 
+- 🕐 VueJS | Java
+- 📝 Graduation of Pharmacy and Biochemistry and Computer Sciences
 
 **Languages and Tools:**
 
@@ -39,5 +32,3 @@
 <img align="left" height="30" src="https://victorvhpg.github.io/minicurso-react.js/slides/img/logo.png">
 <img align="left" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/555px-Vue.js_Logo_2.svg.png">
 <img align="left" height="30" src="https://www.ifpe.edu.br/campus/palmares/noticias/curso-de-extensao-em-java/javalogo.png/@@images/4ba63826-fe43-497e-a152-7b03d6b4b49c.png">
-
-
