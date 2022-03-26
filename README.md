@@ -1,4 +1,4 @@
-## Hi, I'm Rita!
+<h1> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Hi, I'm Rita! </h1>
 
 <p align="right">
 <a href="rialf.ferreira@gmail.com" target="_blank">
@@ -13,14 +13,16 @@
 <a href="https://twitter.com/RitaFer82562874" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
-  
-<img align="right" src="https://c.tenor.com/Zjx4IpPncygAAAAi/yay-cute.gif" width="300">
-
+<img align="left" src="https://c.tenor.com/Zjx4IpPncygAAAAi/yay-cute.gif" width="300">
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=RitaFer&color=red&style=flat" alt="Profile views" /> </p>
+ 
 **About me:**
-- 💻 I'm a beginner web developer 
-- ✅ HTML5 | CSS3 | Sass | JavaScript | NodeJS | ReactJS | 
-- 🕐 VueJS | Java
-- 📝 Graduation of Pharmacy and Biochemistry and Computer Sciences
+
+☑️ 💻 I'm a beginner web developer 
+<br>
+☑️ 📝 Graduation of Pharmacy and Biochemistry and Computer Sciences
+<br>
+☑️ ♥ Series, Travel and Science
 
 **Languages and Tools:**
 
@@ -32,3 +34,9 @@
 <img align="left" height="30" src="https://victorvhpg.github.io/minicurso-react.js/slides/img/logo.png">
 <img align="left" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/555px-Vue.js_Logo_2.svg.png">
 <img align="left" height="30" src="https://www.ifpe.edu.br/campus/palmares/noticias/curso-de-extensao-em-java/javalogo.png/@@images/4ba63826-fe43-497e-a152-7b03d6b4b49c.png">
+
+<br>
+<br>
+
+[![Rita's GitHub stats](https://github-readme-stats.vercel.app/api?username=RitaFer&theme=graywhite&hide_border=true)](https://github.com/RitaFer/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RitaFer&layout=demo&title_color=000&hide_border=true&hide=html)](https://github.com/t-heu/github-readme-stats)
