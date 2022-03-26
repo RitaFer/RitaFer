@@ -13,8 +13,8 @@
 <a href="https://twitter.com/RitaFer82562874" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
-<img align="left" src="https://c.tenor.com/Zjx4IpPncygAAAAi/yay-cute.gif" width="300">
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=RitaFer&color=red&style=flat" alt="Profile views" /> </p>
+<img align="left" src="https://c.tenor.com/Zjx4IpPncygAAAAi/yay-cute.gif" width="250">
  
 **About me:**
 
@@ -37,6 +37,7 @@
 
 <br>
 <br>
+<br>
 
-[![Rita's GitHub stats](https://github-readme-stats.vercel.app/api?username=RitaFer&theme=graywhite&hide_border=true)](https://github.com/RitaFer/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RitaFer&layout=demo&title_color=000&hide_border=true&hide=html)](https://github.com/t-heu/github-readme-stats)
+[![Rita's GitHub stats](https://github-readme-stats.vercel.app/api?username=RitaFer&theme=graywhite&hide_border=true&show_icons=true&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RitaFer&layout=compact&title_color=000&hide_border=true&hide=html)](https://github.com/t-heu/github-readme-stats)
