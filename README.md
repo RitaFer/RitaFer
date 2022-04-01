@@ -33,7 +33,6 @@
 <img align="left" height="30" src="https://cdn.iconscout.com/icon/free/png-256/node-js-3628954-3030179.png">
 <img align="left" height="30" src="https://victorvhpg.github.io/minicurso-react.js/slides/img/logo.png">
 <img align="left" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/555px-Vue.js_Logo_2.svg.png">
-<img align="left" height="30" src="https://www.ifpe.edu.br/campus/palmares/noticias/curso-de-extensao-em-java/javalogo.png/@@images/4ba63826-fe43-497e-a152-7b03d6b4b49c.png">
 
 <br>
 <br>
