@@ -39,5 +39,5 @@
 <br>
 <br>
 
-[![Rita's GitHub stats](https://github-readme-stats.vercel.app/api?username=RitaFer&theme=graywhite&hide_border=true&show_icons=true&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RitaFer&layout=compact&title_color=000&hide_border=true&hide=html)](https://github.com/t-heu/github-readme-stats)
+![Rita's GitHub stats](https://github-readme-stats.vercel.app/api?username=RitaFer&theme=graywhite&hide_border=true&show_icons=true&hide=stars,issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RitaFer&layout=compact&title_color=000&hide_border=true&hide=java)
