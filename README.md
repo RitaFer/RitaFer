@@ -11,9 +11,6 @@
 <a href="https://www.instagram.com/_leopis/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<a href="https://twitter.com/RitaFer82562874" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
 
 ☑️ 💻 I'm a beginner web developer 
 <br>
