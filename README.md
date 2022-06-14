@@ -1,5 +1,5 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=RitaFer&color=red&style=flat" alt="Profile views" /> </p>
-<h1> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Hi, I'm Rita! </h1>
+<h1> Hi, I'm Rita! </h1>
 
 <p align="right">
 <a href="rialf.ferreira@gmail.com" target="_blank">
@@ -25,6 +25,5 @@
 <img align="left" height="30" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png">
 <img align="left" height="30" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png">
 <img align="left" height="30" src="https://logospng.org/download/javascript/logo-javascript-1024.png">
-<img align="left" height="30" src="https://cdn.iconscout.com/icon/free/png-256/node-js-3628954-3030179.png">
 <img align="left" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/555px-Vue.js_Logo_2.svg.png">
 <img align="left" height="30" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
