@@ -19,11 +19,3 @@
 ☑️ ♥ Series, Travel and Science
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RitaFer&layout=compact&title_color=000&hide_border=true&align=right)
-
- **Languages and Tools:**
- 
-<img align="left" height="30" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png">
-<img align="left" height="30" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png">
-<img align="left" height="30" src="https://logospng.org/download/javascript/logo-javascript-1024.png">
-<img align="left" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/555px-Vue.js_Logo_2.svg.png">
-<img align="left" height="30" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
